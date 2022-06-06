@@ -1,0 +1,10 @@
+Difference b/w JAR,WAR and EAR
+DIFFERENCE BETWEEN JAR , WAR AND EAR ...
+JAR:-  A JAR  known as Java ARchive is a package file format used to combine many Java class files and along with associated metadata and resources (text, images) into one file for the distribution.
+Difference b/w JAR,WAR and EAR
+
+WAR:-  A WAR file known as Web application ARchive is similarly like a JAR file used to distribute a collection of JavaServer Pages, Java Servlets, Java classes, XMLfiles, tag libraries, web pages (HTML and related files) and other resources that together make a web application.
+
+Basically .war file is contained in your project in dist folder.Also .war file is created when you clean and build your project.
+
+EAR:- EAR  known as Enterprise Application ARchive is a file format used by Java EE(ENTERPRISE EDITION) for packaging one or more modules into a single archive so that the deployment of the various modules onto an application server happens very simultaneously and frequenlty.
